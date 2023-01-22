@@ -1,5 +1,5 @@
 <template>
     <main>
-        <h1>Nexa Fun is coming soon...</h1>
+        <h1>Nexa BUIDL Festivals are coming soon...</h1>
     </main>
 </template>

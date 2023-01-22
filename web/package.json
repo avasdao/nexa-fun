@@ -1,5 +1,7 @@
 {
-  "private": true,
+  "name": "nexa-fun-web",
+  "version": "23.1.22",
+  "license": "MIT",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -7,7 +9,7 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
-  "devDependencies": {
-    "nuxt": "^3.0.0"
+  "dependencies": {
+    "nuxt": "3.0.0"
   }
 }
